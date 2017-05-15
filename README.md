@@ -5,5 +5,5 @@ Material design inspired.
 
 # Build with
 
-* HTML5/CSS3 and S
+* HTML5/CSS3 and SCSS
 * jQuery
