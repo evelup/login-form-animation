@@ -1,7 +1,9 @@
 # Login & Registration form with CSS animation effects
 Material design inspired. 
 
-[Click to check it](https://evelup.github.io/login-form-animation/)
+[DEMO](https://evelup.github.io/login-form-animation/)
+
+![demo](gif/login-form.gif)
 
 # Build with
 
